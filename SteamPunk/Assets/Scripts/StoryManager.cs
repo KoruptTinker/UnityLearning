@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class StoryManager : MonoBehaviour
 {
+
+    public bool isPlaying;
     // Start is called before the first frame update
     void Start()
     {
